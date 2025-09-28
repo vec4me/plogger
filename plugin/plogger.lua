@@ -40,4 +40,6 @@ function plogger.setup()
     })
 end
 
+plogger.setup()
+
 return plogger
